@@ -1,0 +1,72 @@
+- Navbar
+    - logo
+    - Menu
+        - Home
+        - About
+        - Contact
+        - Services
+
+    - Hero
+      - Wellcome to Moon City
+      images
+- Heading
+- content
+
+
+<p>
+                Automation is revolutionizing the way law enforcement works, and with drone technology popping up all 
+                over the world, law enforcement has a lot to gain from using these unmanned aerial vehicles. Police 
+                departments all over the US are quickly using drones to help keep their officers safe. Drones give 
+                real-time info from the air that can help them make better decisions in dangerous situations like 
+                chasing after a suspect or quickly processing an accident scene. They can also create maps of popular 
+                places like schools and malls that could be targeted if an active shooter were to emerge. Plus, drones 
+                can get into dangerous places that can't be accessed by cops, like buildings that have been blown up or 
+                areas with active shooters. And they can help police navigate their responses to emergencies and find 
+                people who need help.
+                
+            </p>
+            <p>
+                Visual assessment is obviously a laborious and time-consuming process that requires a lot of effort all 
+                night long. Drones' built-in capabilities allow them to perform airborne inspections with ease. Data is 
+                gathered through drone surveillance with rapid, reliable, and consistent results. Deployment of drones 
+                during night operations saves time and resources.
+
+                As mentioned above, law enforcement can benefit greatly from drone deployment. Not only during the day 
+                but with advanced lens and thermal imaging drones can prevent crime, report incidents and locate criminals 
+                more quickly than humans. Drones' capabilities extend beyond crime detection to include natural disasters 
+                that happen at night, like forest fires.
+
+            </p>
+            <p></p>Keeping public infrastructure safe and efficient is essential, as dangerous conditions can lead to 
+            tragedy and damage other assets. It's no secret that roads determine a nation's development rate, so it's 
+            important to keep them in good condition. But it can be expensive to maintain them, so technological solutions 
+            can help. Drone technology can be used to keep an eye on roads as they're being built, and it can help prevent 
+            fractures and other issues. Workers can use drones to create essential infrastructure, as they can 3D model 
+            roads, collect data from UAVs, and take amazing aerial photos. Drones' cameras and sensors can get really 
+            detailed shots, especially in places where it's hard to get to. This helps keep the public safe and secure. 
+            </p>
+            <p>Firefighters are in a tough spot when it comes to fighting fires, but drones can help make the job safer 
+                and more efficient. By collecting data remotely about an active fire, they can figure out how it's 
+                burning, if anyone is still inside, and other important details. One way drones are making the job safer 
+                is by helping them find victims who need to be rescued. This is especially important for structure fires, 
+                where looking for people can be dangerous. A drone can fly over a building or other area that's not 
+                accessible to humans, and use aerial thermography to spot smoldering areas that can't be seen with the 
+                naked eye. This data can help keep the firefighter safe by avoiding the more dangerous areas of an active fire.
+                Drones are also aiding in the safety of firefighting personnel by assessing the potential danger of entering a 
+                burning structure or other structure. By utilizing indoor drones, firefighting personnel can evaluate the 
+                likelihood of building collapse prior to entry and identify potentially hazardous hot spots through aerial 
+                thermography that may not otherwise be visible. This contributes to the safety of the firefighting personnel 
+                and enhances their effectiveness.
+            </p>
+            <p>Emergency management workers like EMTs and paramedics, as well as search and rescue teams, benefit from the use 
+                of drones. While they may not use them as often, they still see major safety benefits.
+
+                Drones make it easier for first responders to locate missing people. For example, if a person has been thrown 
+                out of a car in the middle of the night, or if they have not returned from a hike, it can be dangerous for first 
+                responders to search for them. With the help of a thermal drone, first responders can quickly locate missing people 
+                without having to hike through unfamiliar terrain in the dark.
+                
+                Emergency management workers also benefit from drone deliveries. During an emergency, medical personnel can use 
+                drones to deliver medical supplies and other essential materials. This can help prevent EMTs from exposing 
+                themselves to potentially hazardous situations. For example, during the height of COVID-19, medical personnel 
+                were able to use drones to deliver food and medical supplies from a safe distance.</p>
